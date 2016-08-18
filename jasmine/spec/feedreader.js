@@ -88,9 +88,8 @@ $(function() {
             loadFeed(0, done);
          });
 
-         it('show at least one element in the .feed container', function(done) {
+         it('show at least one element in the .feed container', function() {
             expect($('.feed').find('.entry').length).not.toBe(0);
-            done();
          });
     });
     /* TODO: Write a new test suite named "New Feed Selection" */
