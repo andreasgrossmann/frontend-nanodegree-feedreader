@@ -5,7 +5,7 @@ Using the Jasmine JavaScript testing framework to test the functionality of a fe
 
 # Live version
 
-...
+https://andreasgrossmann.github.io/frontend-nanodegree-feedreader/
 
 
 # How to run
